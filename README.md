@@ -1,2 +1,2 @@
-# aws-cloud-formation
+# cloud-formation
 CloudFormation Templates
